@@ -13,9 +13,3 @@ When I was developing ManOCL my intention was to hide advanced aspects of OpenCL
 
 *The amount of non C# coding:*
 Well still you need to create your kernels in OpenCL :) I'm using ManOCL in my projects and they are 100% C#
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
